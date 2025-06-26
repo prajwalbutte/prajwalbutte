@@ -29,7 +29,8 @@
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/prajwal-butte)
+[LinkedIn](https://www.linkedin.com/in/prajwal-butte-441485330)
+
 [GitHub](https://github.com/prajwalbutte)
 
 ---
