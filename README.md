@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prajwal
 
-🎓 2nd Year Computer Engineering Student @ Trinity COER, Pune  
+🎓 2nd Year Computer Engineering Student @ Trinity College Of Engineering And Reasearch, Pune  
 💻 Learning Python, Java, SQL, and Web Development  
 🛠️ Building real-world mini projects to sharpen my skills and prepare for placement
 
