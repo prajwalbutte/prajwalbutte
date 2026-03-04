@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Prajwal Butte </h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
