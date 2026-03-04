@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 🌱 Learning Web Development<br>💻Python, Java & C (basics)<br>🤝 Open to beginner-friendly projects<br>💬 Ask me about programming fundamentals<br>
 ## 🌐 Socials:
